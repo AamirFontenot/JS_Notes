@@ -19,6 +19,7 @@ console.log(false, typeof false);
 debugger;
 
 //From where I left off we were dealing with if statements and how to use them
+//Selection
 
 let Seceretvalue = Math.floor(Math.random() *5);
 
